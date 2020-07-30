@@ -2,7 +2,7 @@
   "videos":
   [
     {
-      "path": "https://github.com/LeFx-Till/TraningWebGL/blob/master/MedBot_960x540.mp4"
+      "path": "http://localhost:8080/webserver/MedBot.mp4"
     }
   ]
 }
